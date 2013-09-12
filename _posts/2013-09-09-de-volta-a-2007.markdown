@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "De volta a 2007  "
+date:   2013-09-09 23:00:00
+categories: 
+---
+
+O que acontecia em 2007 com a comunidade Ruby? Havia uma comunidade? Em Janeiro era [lançado o rails 1.2][rails-1-2].
+
+Não me lembro exatamente a data, mas comecei a gravar podcasts para ter contato com pessoas que começavam a brincar/estudar Ruby e Ruby on Rails.
+
+6 anos se passaram e estamos aqui. Muitos são referência e fazem um grande trabalho no desenvolvimento software e, em consequência, influênciaram pessoas na comunidade. Alguns escolheram outros caminhos, mas também foram referência para muitos profissionais de hoje.
+
+O primeiro podcast foi com Thiago Arrais, que na época criou um software chamado Motiro, cujo objetivo era gerenciar projetos como fazia o Trac ou Red Mine. Mas, o Motiro tinha um diff de código para vários tipos de sistema de controle de versão.
+
+Divirtam-se com esse Podcast e comentem caso isso faça sentido nos dias de hoje. 
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F109482269&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=false"></iframe>
+
+<!-- {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->
+
+
+[rails-1-2]: http://weblog.rubyonrails.org/2007/1/18/rails-1-2-rest-admiration-http-lovefest-and-utf-8-celebrations/
