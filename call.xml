@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice" language="pt-BR">Amor eu te amo. Adoro estar aqui juntinho comigo.</Say>
+  <Pause length="1"/>
+  <Say voice="alice">Mil beijos.</Say>
+</Response>
