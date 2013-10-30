@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Response>
-     <Say voice="alice" language="pt-BR">Bom dia Eduardo, gostaria de falar que você é maravilhoso, sexy e o melhor homem que conheci na vida. Me liga tá. Beijos da Alice, sua máquina de auto-estima.</Say>
+     <Say voice="alice" language="pt-BR">Bom dia, eu sou o robo Alice, este é um teste do cliente de ligações do Twilio. Um grande abraço.</Say>
 </Response>
